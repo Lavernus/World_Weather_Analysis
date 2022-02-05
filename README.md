@@ -1,1 +1,2 @@
-# World_Weather_Analysis
+# Vacation Based on Weather Criteria
+In this project, I have gathered weather information for the cities closest to randomly generated coordinates using Open Weather Map's api. I then narrowed the list down to only the cities that lied within the temperature range specified by the user, and found the top result for the hotels closest to these cities using Google's api. Finally, I created a travel itenerary for four of these cities that lied within the same country, with the directions and weather displayed on two separate maps. 
